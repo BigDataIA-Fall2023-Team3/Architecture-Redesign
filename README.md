@@ -44,6 +44,16 @@ Cost Analysis: To provide a detailed budget outlining the costs involved in buil
 - Open AI Alternative Analysis Sheets: Detailed breakdowns available in the OpenAI Alternatives/ directory.
 - Documentation: In-depth explanations available in CodeLabs provided.
 
+.
+├── OpenAI Alternatives
+│   └── Assignment_5.ipynb
+├── README.md
+└── diagrams
+    ├── Enterprice Components Architecture.png
+    ├── Open Source Components Architecture.png
+    ├── Original Worflow Part-1.png
+    └── Original Workflow Part 2.png
+
 
 ##### WE ATTEST THAT WE HAVEN’T USED ANY OTHER STUDENTS’ WORK IN OUR ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK
 
