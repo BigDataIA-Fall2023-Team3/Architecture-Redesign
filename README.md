@@ -42,6 +42,7 @@ Cost Analysis: To provide a detailed budget outlining the costs involved in buil
 ## How to Use This Repository
 - Architecture Diagrams: Found in the diagrams/ directory.
 - Open AI Alternative Analysis Sheets: Detailed breakdowns available in the OpenAI Alternatives/ directory.
+- Cost Analysis: Detailed Cost Analysis available in the Cost Analysis/ directory
 - Documentation: In-depth explanations available in CodeLabs provided.
 
 ```
