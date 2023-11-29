@@ -47,6 +47,9 @@ Cost Analysis: To provide a detailed budget outlining the costs involved in buil
 
 ```
 .
+├── Cost Analysis
+│   ├── Enterprise Cost Analysis.md
+│   └── Open Source Cost Analysis.md
 ├── OpenAI Alternatives
 │   └── Assignment_5.ipynb
 ├── README.md
