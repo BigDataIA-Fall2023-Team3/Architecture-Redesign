@@ -1,6 +1,7 @@
 # Assignment 5: Architecture Redesign
 
 ### [CodeLabs](https://codelabs-preview.appspot.com/?file_id=1bxapYTqsC3TdIR0k2GHEqTF970M0YiDTwSU_bMdk3Wk#0)
+### [Demo](https://youtu.be/cn2A8xZNjnw)
 
 ## Introduction
 This project encapsulates the efforts undertaken in Assignment 5 to explore and design alternative technology stacks for our organization's production environment. In light of recent developments with OpenAI, we evaluated the feasibility of both open-source and enterprise component-based stacks, considering their suitability for our specific needs, scalability, and cost implications.
