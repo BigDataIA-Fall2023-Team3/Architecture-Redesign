@@ -1,4 +1,4 @@
-# Assignment 5: Architecture Redesign
+# Architecture Redesign
 
 ### [CodeLabs](https://codelabs-preview.appspot.com/?file_id=1bxapYTqsC3TdIR0k2GHEqTF970M0YiDTwSU_bMdk3Wk#0)
 ### [Demo](https://youtu.be/cn2A8xZNjnw)
